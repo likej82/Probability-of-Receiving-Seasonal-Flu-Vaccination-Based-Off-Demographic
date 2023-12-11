@@ -1,4 +1,4 @@
-# Probability of Recieving Seasonal Flu Vaccination Based Off Demographic
+# Probability of Receiving Seasonal Flu Vaccination Based Off Demographic
 ![Alt text](https://raw.githubusercontent.com/likej82/vaccination_models/Gina/images/H1N1.webp)
 ## Overview:
 As the world struggles to vaccinate the global population against COVID-19, an understanding of how people’s backgrounds, opinions, and health behaviors are related to their personal vaccination patterns can provide guidance for future public health efforts. The 2009 H1N1 pandemic caused between 43 million and 89 million cases of H1N1 between April 2009 and April 10, 2010. There were also between 195,000 and 403,000 H1N1-related hospitalizations during that time.
